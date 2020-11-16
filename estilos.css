@@ -1,0 +1,82 @@
+header{
+       width: 1600px;
+       height: 70px;
+       background-color: black;
+       color: white;
+} 
+
+section{
+    background-color: whitesmoke;
+}
+
+body{
+    background-color: white;
+    background-image: url(imagen\ grammys.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+    
+}
+.Ganador1{
+    width: 400px;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+.Ganador2{
+    width: 400px;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+.Ganador3{
+    width: 400px;
+    height: 250px;
+    margin-top: 100px;
+    margin-left: 25px;
+}
+.Ganadores{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+
+nav{
+     width:900;
+     height: 900;
+     background-color: black;
+     
+ }
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    overflow: hidden;
+}
+
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+    border-right: 7px solid gray;
+}
+
+
+
+
+footer{
+    width: 1600px;
+    height: 100px;
+    background: black;
+    color: white;
+} 
